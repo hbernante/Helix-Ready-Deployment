@@ -8,9 +8,9 @@ Our primary aim is to export the backup files of our current Frappe project to f
 <h3>Project specified Prerequisites:</h3>
 <div>
   <li>
-    Terminal Emulator: Putty, WinSCP
+    Terminal Emulator: <strong>Putty, WinSCP</strong>
   </li>
-  <a>This is used to access the main directory of the frappe project to export the database files.</a>
+  <p>This is used to access the main directory of the frappe project to export the database files.</p>
 </div>
 
 
